@@ -1,7 +1,7 @@
 /** @format */
 
 import { useEffect, useState } from 'react';
-import Supply from './supply';
+import Supply from './Supply';
 import './Supplications.css';
 import Azker from './Azker';
 
