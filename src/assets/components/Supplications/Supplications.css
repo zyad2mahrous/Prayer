@@ -1,0 +1,35 @@
+/** @format */
+
+.content {
+	margin: 20px;
+	padding: 20px;
+	background: #d7b899;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+	border-radius: 8px;
+}
+.content p {
+	line-height: 1.6;
+	background: #f8f9fa;
+	padding: 10px;
+	border-radius: 5px;
+}
+.welcome-message {
+	background-color: #fdf6ec;
+	padding: 20px;
+	border-radius: 12px;
+	text-align: center;
+	color: #4a3f35;
+	line-height: 1.6;
+	box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+}
+
+.welcome-message h2 {
+	margin-bottom: 10px;
+	font-size: 1.5rem;
+	color: #8b5e3c;
+}
+
+.welcome-message p {
+	margin: 5px 0;
+	font-size: 1rem;
+}
